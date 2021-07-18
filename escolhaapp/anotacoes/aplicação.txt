@@ -1,0 +1,8 @@
+Aplicação Gasolina ou Alcoll 
+
+1. Criar e usar StateFulWidget 
+2. Definir e obter valores de entrada do usuário(TextEditingController e TextFormField)
+3.Realizar validações<Form e GlobalKey>
+4.Realizar cálculos e atualizar interface
+5.Usar método setState();
+6.Trabalhar com controller, Focus, Keyboard
